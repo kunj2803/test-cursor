@@ -24,3 +24,9 @@ To reduce motion, enable your device's **Reduce Motion** accessibility setting; 
 
 For smoother frame-by-frame scrubbing, encode the video at a constant frame rate with a short keyframe interval (about 0.1–0.25 seconds). All-intra encoding is smoothest but creates a much larger file.
 "# test-cursor" 
+
+## Preview
+
+| Character reference | Portfolio preview |
+| --- | --- |
+| ![Character reference](docs/images/character-reference.jpg) | ![Portfolio preview](docs/images/portfolio-preview.jpg) |
